@@ -54,6 +54,8 @@ $(document).ready(function() {
     });
 
 
+
+
     $('.delete').click( function(e) {
         var id = $(this).data('id');
 
